@@ -1,0 +1,14 @@
+@forward './base/index';
+@use './util/index' as variable;
+
+main {
+  background-color: variable.$main-bgColor;
+  padding: 1rem;
+}
+
+footer {
+  background-color: variable.$footer-bgColor;
+  padding: 3rem;
+  color: red;
+  font-size: 20px;
+}
