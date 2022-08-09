@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Lorem Ipsum",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "img": "../src/assets/tutorial-1.svg"
+  },
+  {
+    "title": "Lorem Ipsum",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "img": "../src/assets/tutorial-1.svg"
+  },
+  {
+    "title": "Lorem Ipsum",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "img": "../src/assets/tutorial-1.svg"
+  },
+  {
+    "title": "Lorem Ipsum",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "img": "../src/assets/tutorial-1.svg"
+  },
+  {
+    "title": "Lorem Ipsum",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "img": "../src/assets/tutorial-1.svg"
+  },
+  {
+    "title": "Lorem Ipsum",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "img": "../src/assets/tutorial-1.svg"
+  }
+]
